@@ -1,1 +1,0 @@
-# Puesta-en-marcha-de-un-equipo
