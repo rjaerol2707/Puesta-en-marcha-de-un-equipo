@@ -51,64 +51,70 @@ En este caso la 2 es una ranura PCI Express x16 slots,y la 3 son dos pequeñas r
 # 1. DESMONTAJE DEL EQUIPO
 
 **- Se quita la carcasa
+![Test Image 1](montaje_desmontaje_del_equipo/ordenador_con_carcasa.jpeg)
+![Test Image 1](montaje_desmontaje_del_equipo/montaje_desmontaje_carcasa.jpeg)
 
-
-**- Se comienza a desconectar todo el cableado dela fuente de alimentación de la placa base el cual (se recomienda quedarse en mente con la manera en que se han descolocado)
-
+**- Se comienza a desconectar todo el cableado de la fuente de alimentación de la placa base el cual (se recomienda quedarse en mente con la manera en que se han descolocado)
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_2_fuente_alimentacion.jpeg)
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_de_cableado_a_la_placa_base.jpeg)
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_encendido_placa_base.jpeg)
 
 **- Se quita la memoria RAM levantando las pinzas que la aseguran a la placa base
-
+![Test Image 1](montaje_desmontaje_del_equipo/colocar_y_quitar_memoria_RAM.jpeg)
 
 **- Se levanta el disipador tras desconectarlo de la placa base dependientemente del disipador levantando las pestañas que lo aseguran
-
+![Test Image 1](montaje_desmontaje_del_equipo/quitar_y_poner_disipador.jpeg)
 
 **- Se quita la CPU levantando el seguro del mismo
-
+![Test Image 1](montaje_desmontaje_del_equipo/quitar_y_colocar_CPU.jpeg)
 
 **- Se limpia la pasta térmica tanto de la CPU como del disipador 
-
+![Test Image 1](montaje_desmontaje_del_equipo/limpiar_CPU.jpeg)
 
 **- Se quita la tarjeta de red desatornillando la pieza que la asegura
-
+![Test Image 1](montaje_desmontaje_del_equipo/quitar_y_colocar_tarjeta_de_red.jpeg)
 
 **- Se quita el disco duro y sus conexiones correspondientes
-
-
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_1_disco_duro.jpeg)
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_2_disco_duro.jpeg)
 
 ** Una vez desconectado todo se puede desatornillar la placa base de la caja
-
+![Test Image 1](montaje_desmontaje_del_equipo/atornillado_y_desatornillado_de_placa_base.jpeg)
 
 
 # 2. MONTAJE DEL EQUIPO
 
 ** Se atornilla la placa base a la caja
-
+![Test Image 1](montaje_desmontaje_del_equipo/atornillado_y_desatornillado_de_placa_base.jpeg)
 
 
 **- Se coloca la memoria RAM levantando y apretando las pinzas que la aseguran a la placa base
-
+![Test Image 1](montaje_desmontaje_del_equipo/colocar_y_quitar_memoria_RAM.jpeg)
 
 **- Se coloca la CPU levantando el seguro del mismo y una vez colocada se pone el seguro
-
+![Test Image 1](montaje_desmontaje_del_equipo/quitar_y_colocar_CPU.jpeg)
 
 **- Se aplica la pasta térmica en la CPU de manera que se esparza bien tras colocar el disipador (esto se puede realizar de múltiples maneras en nuestro caso lo hemos aplicado en x)
-
+![Test Image 1](montaje_desmontaje_del_equipo/poner_pasta_termica.jpeg)
 
 **- Se coloca el disipador sobre la CPU asegurándolo a la placa base
-
+![Test Image 1](montaje_desmontaje_del_equipo/quitar_y_poner_disipador.jpeg)
 
 **- Se coloca la tarjeta de red en su correspondiente ranura asegurándola con su tornillo
-
+![Test Image 1](montaje_desmontaje_del_equipo/quitar_y_colocar_tarjeta_de_red.jpeg)
 
 **- Se coloca el disco duro y sus conexiones correspondientes
-
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_1_disco_duro.jpeg)
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_2_disco_duro.jpeg)
 
 **- Se conectan los cables de encendido a la placa base en su orden correspondiente
-
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_2_fuente_alimentacion.jpeg)
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_de_cableado_a_la_placa_base.jpeg)
+![Test Image 1](montaje_desmontaje_del_equipo/conexion_encendido_placa_base.jpeg)
 
 **- Se coloca la carcasa completa
-
-
+![Test Image 1](montaje_desmontaje_del_equipo/ordenador_con_carcasa.jpeg)
+![Test Image 1](montaje_desmontaje_del_equipo/montaje_desmontaje_carcasa.jpeg)
 
 
 ## CONECTORES
