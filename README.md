@@ -147,3 +147,4 @@ En este caso la 2 es una ranura PCI Express x16 slots,y la 3 son dos pequeñas r
    - De color rosa, micrófono.
 
 En este caso,la placa solo dispone de los puertos de color azul,verde y rosa.
+## Alejandro Nasri Escarti, Angel Gallardo Trigueros, Rafael Jaen Roldan
